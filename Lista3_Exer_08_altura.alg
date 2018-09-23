@@ -12,7 +12,7 @@ inicio
    Felisberto <- 1.10
 
    // Para resolver esse problema é preciso usar outra estrutura de repetição, o "enquanto"
-   // Enquanto a altura de Ancleto for maior ou igual a altura de Felisberto a estrutura continuará repetindo
+   // Enquanto a altura de Anacleto for maior ou igual a altura de Felisberto a estrutura continuará repetindo
    enquanto Anacleto >= Felisberto faca
             Anacleto <- Anacleto + 0.02
             Felisberto <- Felisberto + 0.03
